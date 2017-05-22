@@ -1,6 +1,7 @@
 <a href="https://github.com/LPRDev/PoolSkimmer/blob/master/images/PoolRobot1.jpg">
 <img src="https://github.com/LPRDev/PoolSkimmer/blob/master/images/PoolRobot1.jpg" align="right" width="50%" height="50%">
 </a>
+
 # PoolSkimmer
 Transforms an RC Boat to autonomous robotic pool skimmer!
 ----
@@ -15,7 +16,7 @@ Heres a brief list of the parts used:
 * Any Arduino Uno case/enclosure
 * <a href="http://playground.arduino.cc/Main/AdafruitMotorShield">Arduino Motor Shield (LD293)</a>
 * <a href="http://www.micropik.com/PDF/HCSR04.pdf"> HC-SR04 Sonor Sensor</a>
-* <a href="https://www.amazon.com/Breadboard-Jumper-Wires-Aoyoho-Multicolored/dp/B01GK2Q4ZQ/ref=sr_1_3?s=industrial&ie=UTF8&qid=1483492839&sr=1-3&keywords=Breadboard+jumper+for+Arduino""> Breadboard jumper for Arduino</a>
+* <a href="https://www.amazon.com/Breadboard-Jumper-Wires-Aoyoho-Multicolored/dp/B01GK2Q4ZQ/ref=sr_1_3?s=industrial&ie=UTF8&qid=1483492839&sr=1-3&keywords=Breadboard+jumper+for+Arduino"> Breadboard jumper for Arduino</a>
 * 8" of 3/4" CPVC piping
 * 4 of 45 degree CPVC connectors
 * 4 of 90 degree CPVC connectors 
